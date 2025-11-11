@@ -1,4 +1,5 @@
 // UbahArray.java
+
 // Mengubah elemen array yang berisi "Suzuki" lalu menampilkan indeks yang diubah
 public class UbahArray {
     public static void main(String[] args) {
